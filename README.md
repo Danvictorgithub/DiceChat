@@ -1,2 +1,2 @@
 # DiceChat
-NextJs and NestJS Omegle Clone
+NextJs and NestJS Omegle Clone with WebRTC
